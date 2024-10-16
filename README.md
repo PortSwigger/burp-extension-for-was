@@ -57,3 +57,6 @@ To send Burp issues to WAS:
 
 ** 2.0.1 20-Sep-2021
 - Added support for new Qualys shared platforms: AE1
+
+** 2.0.2 23-Sep-2024
+- Fixed issue for Burp Findings Import With Blank Request/Response
